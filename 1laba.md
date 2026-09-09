@@ -100,11 +100,11 @@
 | Поле                                  | Значение                                                                |
 |---------------------------------------|-------------------------------------------------------------------------|
 | Название набора                       | Inside Airbnb - Tokyo                                                 |
-| Исходный издатель или владелец данных | [Inside Airbnb - Get the Data](http://insideairbnb.com/get-the-data/)               |
-| Страница исходного издателя           | [URL.]                                                                  |
-| Страница скачивания, файл или API     | [URL. Укажите отдельно, если он отличается от страницы издателя.]       |
-| Лицензия или условия использования    | [Название лицензии и ссылка; либо цитата или краткое описание условий.] |
-| Дата загрузки                         | [ГГГГ-ММ-ДД.]                                                           |
+| Исходный издатель или владелец данных | Inside Airbnb               |
+| Страница исходного издателя           | [Inside Airbnb - Get the Data](http://insideairbnb.com/get-the-data/)                                                                  |
+| Файл с объявлениями     | [listings.csv.gz](http://data.insideairbnb.com/japan/kanto/tokyo/2026-06-30/data/listings.csv.gz)       |
+| Файл со списком районов    | [neighbourhoods.csv](http://data.insideairbnb.com/japan/kanto/tokyo/2026-06-30/data/neighbourhoods.csv) |
+| Файл с геометрией районов                         | [Data Dictionary - Inside Airbnb](http://insideairbnb.com/data-dictionary/)                                                           |
 | Версия или дата публикации набора     | [Если указана источником.]                                              |
 
 <!--
