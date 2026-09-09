@@ -97,15 +97,15 @@
 
 ### 4.1. Происхождение и доступ
 
-| Поле                                  | Значение                                                                |
-|---------------------------------------|-------------------------------------------------------------------------|
-| Название набора                       | Inside Airbnb - Tokyo                                                 |
-| Исходный издатель или владелец данных | Inside Airbnb               |
-| Страница исходного издателя           | [Inside Airbnb - Get the Data](http://insideairbnb.com/get-the-data/)                                                                  |
-| Файл с объявлениями     | [listings.csv.gz](http://data.insideairbnb.com/japan/kanto/tokyo/2026-06-30/data/listings.csv.gz)       |
-| Файл со списком районов    | [neighbourhoods.csv](http://data.insideairbnb.com/japan/kanto/tokyo/2026-06-30/data/neighbourhoods.csv) |
-| Файл с геометрией районов                         | [Data Dictionary - Inside Airbnb](http://insideairbnb.com/data-dictionary/)                                                           |
-| Версия или дата публикации набора     | [Если указана источником.]                                              |
+| Поле                                  | Значение                                                                                                             |
+|---------------------------------------|----------------------------------------------------------------------------------------------------------------------|
+| Название набора                       | Inside Airbnb - Tokyo                                                                                                |
+| Исходный издатель или владелец данных | Inside Airbnb                                                                                                        |
+| Страница исходного издателя           | [Inside Airbnb - Get the Data](http://insideairbnb.com/get-the-data/)                                                |
+| Файл с объявлениями                   | [listings.csv.gz](https://data.insideairbnb.com/japan/kantō/tokyo/2026-06-30/data/listings.csv.gz)                   |
+| Файл со списком районов               | [neighbourhoods.csv](https://data.insideairbnb.com/japan/kantō/tokyo/2026-06-30/visualisations/neighbourhoods.csv)   |
+| Файл с отзывами                       | [Data Dictionary - Inside Airbnb](https://data.insideairbnb.com/japan/kantō/tokyo/2026-06-30/data/reviews.csv.gz)    |
+| Версия или дата публикации набора     | [Если указана источником.]                                                                                           |
 
 <!--
 Если набор найден на Kaggle, в GitHub-репозитории или другом агрегаторе, укажите также первоначального издателя и условия использования исходных данных.
